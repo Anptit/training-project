@@ -9,9 +9,9 @@
 <body>
     <div class="heading">
         <div class="heading_logo">
-            <img src="/assets/Logo.png" alt="logo">
+            <img src="/assets/images/Logo.png" alt="logo">
         </div>
-        <div class="heading_menu">
+        <nav class="heading_menu">
             <ul class="heading_menu-list">
                 <li class="heading_menu-list-item">Home</li>
                 <li class="heading_menu-list-item">Page</li>
@@ -20,7 +20,7 @@
                 <li class="heading_menu-list-item">Blog</li>
                 <li class="heading_menu-list-item">Contact</li>
             </ul>
-        </div>
+        </nav>
     </div>
 </body>
 </html>
