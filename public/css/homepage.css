@@ -181,7 +181,7 @@
 }
 
 .content_work_list-item-btn-title {
-    width: 93px;
+    width: 100px;
     height: 23px;
     font-size: 18px;
     font-weight: 600;
@@ -247,17 +247,18 @@
 }
 
 .content_about-us_content_btn-call {
+    display: flex;
+    margin-top: 52px;
     width: 100%;
     height: 93px;
     gap: 15px;
-
 }
 
 .content_about-us_content_btn-call-icon {
     width: 93px;
     height: 93px;
     border: 2px;
-    color: #CDA274;
+    color: #F4F0EC;
 }
 
 .content_about-us_content_btn-call_content {
@@ -271,7 +272,8 @@
     font-size: 24px;
     font-weight: 700;
     line-height: 36px;
-    letter-spacing: 0.01em;
+    letter-spacing: 1px;
+    margin: 12px 0 0 0;
     text-align: left;
     color: #4D5053;
 }
@@ -283,28 +285,28 @@
     font-weight: 400;
     line-height: 33px;
     letter-spacing: 1px;
+    margin: 0;
     text-align: left;
-
 }
 
 .content_about-us_content_btn_button {
+    display: flex;
     width: 238.14px;
     height: 75px;
+    margin-top:48px;
     padding: 26px 31px;
     gap: 10px;
     border-radius: 18px;
     color: #FFFFFF;
     background-color: #292F36;
     box-shadow: 0px 10px 20px 0px #C0C0C059;
-
-
 }
 
 .content_about-us_content_btn_button-title {
+    align-self: center;
     width: 176.14px;
     height: 23px;
     gap: 10px;
-
 }
 
 .content_about-us_content_btn_button-img {
