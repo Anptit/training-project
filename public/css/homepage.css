@@ -6,7 +6,8 @@
     --height-about-us: 700px;
     --testimonial: calc(var(--about-us) + var(--height-about-us) + 148px);
     --height-testimonial: 680px;
-
+    --client-logo: calc(var(--testimonial) + var(--height-testimonial) + 118px);
+    --height-client-logo: ;
 }
 
 .container {
@@ -455,3 +456,34 @@
     margin-top: 18px;
     color: #4D5053;
 }
+
+.content__client__logo {    
+    position: absolute;
+    width: 1119px;
+    height: 102px;
+    top: var(--client-logo);
+    margin-left: 38px;
+}
+
+.content__client__logo--list {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    color: #292F36;
+}
+
+.content__client__logo--list-item {
+    width: 100%;
+    height: 100%;
+    list-style: none;
+}
+
+.content__client__logo--list-item-img {
+    width: 100%;
+    height: 100%;
+    object-fit:contain;
+    color: #292F36;
+}
+
