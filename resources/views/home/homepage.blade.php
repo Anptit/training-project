@@ -40,7 +40,6 @@
             </div>
         </div>
         <div class="content-container">
-
             <div class="content_work">
                 <div class="content_work_list-item">
                     <div class="content_work_list-item-content">
@@ -89,14 +88,16 @@
                             We Create The Art Of Stylish Living Stylishly
                         </h2>
                         <p class="content_about-us_content_text-description">
-                            It is a long established fact that a reader will be distracted by the of readable content of a page 
-                            when lookings at its layouts the points of using 
+                            It is a long established fact that a reader will be distracted by the of readable content of
+                            a page
+                            when lookings at its layouts the points of using
                             that it has a more-or-less normal.
                         </p>
                     </div>
                     <div class="content_about-us_content_btn">
                         <div class="content_about-us_content_btn-call">
-                            <img class="content_about-us_content_btn-call-icon" src="/assets/images/CallIcon.png" alt="">
+                            <img class="content_about-us_content_btn-call-icon" src="/assets/images/CallIcon.png"
+                                alt="">
                             <div class="content_about-us_content_btn-call_content">
                                 <h3 class="content_about-us_content_btn-call_content-telephone">
                                     0123456789
@@ -115,21 +116,92 @@
                     </div>
                 </div>
                 <div class="content_about-us_img">
-                    <img src="/assets/images/Aboutus.png" alt="">
+                    <img src="/assets/images/Aboutus.png" alt=""
+                         class="content_about-us_img-background">
                 </div>
             </div>
             <div class="content__testimonial">
                 <div class="content__testimonial__body">
                     <div class="content__testimonial__body__heading">
                         <h2 class="content__testimonial__body__heading--text">
-
+                            What the People Thinks About Us
                         </h2>
                     </div>
                     <div class="content__testimonial__body__testimonial">
                         <ul class="content__testimonial__body__testimonial--list">
-                            <li class="content__testimonial__body__testimonial--list-item"></li>
-                            <li class="content__testimonial__body__testimonial--list-item"></li>
-                            <li class="content__testimonial__body__testimonial--list-item"></li>
+                            <li class="content__testimonial__body__testimonial--list-item">
+                                <div class="content__testimonial__body__testimonial--list-item-content">
+                                    <div class="content__testimonial__body__testimonial--list-item-content-info">
+                                        <img src="/assets/avatars/Avatar.png" alt=""
+                                            class="content__testimonial__body__testimonial--list-item-content-info-img">
+                                        <div
+                                            class="content__testimonial__body__testimonial--list-item-content-info-identifier">
+                                            <h4
+                                                class="content__testimonial__body__testimonial--list-item-content-info-identifier-name">
+                                                Nattasha Mith
+                                            </h4>
+                                            <p
+                                                class="content__testimonial__body__testimonial--list-item-content-info-identifier-address">
+                                                Sydney, USA
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <p class="content__testimonial__body__testimonial--list-item-content-description">
+                                        Lorem Ipsum is simply dummy
+                                        text of the typesetting industry.
+                                        Ipsum has been.
+                                    </p>
+                                </div>
+                            </li>
+                            <li class="content__testimonial__body__testimonial--list-item">
+                                <div class="content__testimonial__body__testimonial--list-item-content">
+                                    <div class="content__testimonial__body__testimonial--list-item-content-info">
+                                        <img src="/assets/avatars/Avatar2.png" alt=""
+                                            class="content__testimonial__body__testimonial--list-item-content-info-img">
+                                        <div
+                                            class="content__testimonial__body__testimonial--list-item-content-info-identifier">
+                                            <h4
+                                                class="content__testimonial__body__testimonial--list-item-content-info-identifier-name">
+                                                Raymond Galario
+                                            </h4>
+                                            <p
+                                                class="content__testimonial__body__testimonial--list-item-content-info-identifier-address">
+                                                Sydney, Australia
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <p class="content__testimonial__body__testimonial--list-item-content-description">
+                                        Lorem Ipsum is simply dummy
+                                        text of the typesetting industry.
+                                        Ipsum has been scrambled it
+                                        to make a type book.
+                                    </p>
+                                </div>
+                            </li>
+                            <li class="content__testimonial__body__testimonial--list-item">
+                                <div class="content__testimonial__body__testimonial--list-item-content">
+                                    <div class="content__testimonial__body__testimonial--list-item-content-info">
+                                        <img src="/assets/avatars/Avatar3.png" alt=""
+                                            class="content__testimonial__body__testimonial--list-item-content-info-img">
+                                        <div
+                                            class="content__testimonial__body__testimonial--list-item-content-info-identifier">
+                                            <h4
+                                                class="content__testimonial__body__testimonial--list-item-content-info-identifier-name">
+                                                Benny Roll
+                                            </h4>
+                                            <p
+                                                class="content__testimonial__body__testimonial--list-item-content-info-identifier-address">
+                                                Sydney, New York
+                                            </p>
+                                        </div>
+                                    </div>
+                                    <p class="content__testimonial__body__testimonial--list-item-content-description">
+                                        Lorem Ipsum is simply dummy
+                                        text of the typesetting industry.
+                                        Ipsum has been scrambled.
+                                    </p>
+                                </div>
+                            </li>
                         </ul>
                     </div>
                 </div>
