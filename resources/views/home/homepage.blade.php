@@ -249,9 +249,13 @@
                                     <h4 class="content__project__body--content-text-background-title">
                                         Modern Kitchan
                                     </h4>
-                                    <p class="content__project__body--content-text-background-description"></p>
+                                    <p class="content__project__body--content-text-background-description">
+                                        Decor / Artchitecture
+                                    </p>
                                 </div>
-                                <button class="content__project__body--content-text-btn"></button>
+                                <button class="content__project__body--content-text-btn">
+                                    <i class="fa-solid fa-angle-right content__project__body--content-text-btn-icon"></i>
+                                </button>
                             </div>
                         </div>
                         <div class="content__project__body--content-info">
@@ -259,10 +263,16 @@
                                 class="content__project__body--content-info-img">
                             <div class="content__project__body--content-text">
                                 <div class="content__project__body--content-text-background">
-                                    <h4 class="content__project__body--content-text-background-title"></h4>
-                                    <p class="content__project__body--content-text-background-description"></p>
+                                    <h4 class="content__project__body--content-text-background-title">
+                                        Modern Kitchan
+                                    </h4>
+                                    <p class="content__project__body--content-text-background-description">
+                                        Decor / Artchitecture
+                                    </p>
                                 </div>
-                                <button class="content__project__body--content-text-btn"></button>
+                                <button class="content__project__body--content-text-btn">
+                                    <i class="fa-solid fa-angle-right content__project__body--content-text-btn-icon"></i>
+                                </button>
                             </div>
                         </div>
                     </div>
@@ -271,11 +281,17 @@
                             <img src="/assets/project/p3.png" alt=""
                                 class="content__project__body--content-info-img">
                             <div class="content__project__body--content-text">
-                                <div class="content__project__body--content-text-background">
-                                    <h4 class="content__project__body--content-text-background-title"></h4>
-                                    <p class="content__project__body--content-text-background-description"></p>
+                                <div class="content_content__project__body--content-info_project__body--content-text-background">
+                                    <h4 class="content__project__body--content-text-background-title">
+                                        Modern Kitchan
+                                    </h4>
+                                    <p class="content__project__body--content-text-background-description">
+                                        Decor / Artchitecture
+                                    </p>
                                 </div>
-                                <button class="content__project__body--content-text-btn"></button>
+                                <button class="content__project__body--content-text-btn">
+                                    <i class="fa-solid fa-angle-right content__project__body--content-text-btn-icon"></i>
+                                </button>
                             </div>
                         </div>
                         <div class="content__project__body--content-info">
@@ -283,17 +299,23 @@
                                 class="content__project__body--content-info-img">
                             <div class="content__project__body--content-text">
                                 <div class="content__project__body--content-text-background">
-                                    <h4 class="content__project__body--content-text-background-title"></h4>
-                                    <p class="content__project__body--content-text-background-description"></p>
+                                    <h4 class="content__project__body--content-text-background-title">
+                                        Modern Kitchan
+                                    </h4>
+                                    <p class="content__project__body--content-text-background-description">
+                                        Decor / Artchitecture
+                                    </p>
                                 </div>
-                                <button class="content__project__body--content-text-btn"></button>
+                                <button class="content__project__body--content-text-btn">
+                                    <i class="fa-solid fa-angle-right content__project__body--content-text-btn-icon"></i>
+                                </button>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="counter">
-
+                
             </div>
         </div>
         <div class="conclusion">
