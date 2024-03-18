@@ -116,8 +116,7 @@
                     </div>
                 </div>
                 <div class="content_about-us_img">
-                    <img src="/assets/images/Aboutus.png" alt=""
-                         class="content_about-us_img-background">
+                    <img src="/assets/images/Aboutus.png" alt="" class="content_about-us_img-background">
                 </div>
             </div>
             <div class="content__testimonial">
@@ -210,28 +209,88 @@
                 <ul class="content__client__logo--list">
                     <li class="content__client__logo--list-item">
                         <img src="/assets/logo/apple.png" alt=""
-                        class="content__client__logo--list-item-img">
+                            class="content__client__logo--list-item-img">
                     </li>
                     <li class="content__client__logo--list-item">
                         <img src="/assets/logo/adidas.png" alt=""
-                        class="content__client__logo--list-item-img">
+                            class="content__client__logo--list-item-img">
                     </li>
                     <li class="content__client__logo--list-item">
                         <img src="/assets/logo/pepsi.png" alt=""
-                        class="content__client__logo--list-item-img">
+                            class="content__client__logo--list-item-img">
                     </li>
                     <li class="content__client__logo--list-item">
                         <img src="/assets/logo/starbuck.png" alt=""
-                        class="content__client__logo--list-item-img">
+                            class="content__client__logo--list-item-img">
                     </li>
                     <li class="content__client__logo--list-item">
                         <img src="/assets/logo/tiktok.jpg" alt=""
-                        class="content__client__logo--list-item-img">
+                            class="content__client__logo--list-item-img">
                     </li>
                 </ul>
             </div>
-            <div class="content_project">
-
+            <div class="content__project">
+                <div class="content__project__heading">
+                    <h2 class="content__project__heading-title">
+                        Follow Our Projects
+                    </h2>
+                    <p class="content__project__heading-description">
+                        It is a long established fact that a reader will be distracted
+                        by the of readable content of page lookings at its layouts points.
+                    </p>
+                </div>
+                <div class="content__project__body">
+                    <div class="content__project__body--content">
+                        <div class="content__project__body--content-info">
+                            <img src="/assets/project/p1.png" alt=""
+                                class="content__project__body--content-info-img">
+                            <div class="content__project__body--content-text">
+                                <div class="content__project__body--content-text-background">
+                                    <h4 class="content__project__body--content-text-background-title">
+                                        Modern Kitchan
+                                    </h4>
+                                    <p class="content__project__body--content-text-background-description"></p>
+                                </div>
+                                <button class="content__project__body--content-text-btn"></button>
+                            </div>
+                        </div>
+                        <div class="content__project__body--content-info">
+                            <img src="/assets/project/p2.png" alt=""
+                                class="content__project__body--content-info-img">
+                            <div class="content__project__body--content-text">
+                                <div class="content__project__body--content-text-background">
+                                    <h4 class="content__project__body--content-text-background-title"></h4>
+                                    <p class="content__project__body--content-text-background-description"></p>
+                                </div>
+                                <button class="content__project__body--content-text-btn"></button>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="content__project__body--content">
+                        <div class="content__project__body--content-info">
+                            <img src="/assets/project/p3.png" alt=""
+                                class="content__project__body--content-info-img">
+                            <div class="content__project__body--content-text">
+                                <div class="content__project__body--content-text-background">
+                                    <h4 class="content__project__body--content-text-background-title"></h4>
+                                    <p class="content__project__body--content-text-background-description"></p>
+                                </div>
+                                <button class="content__project__body--content-text-btn"></button>
+                            </div>
+                        </div>
+                        <div class="content__project__body--content-info">
+                            <img src="/assets/project/p4.png" alt=""
+                                class="content__project__body--content-info-img">
+                            <div class="content__project__body--content-text">
+                                <div class="content__project__body--content-text-background">
+                                    <h4 class="content__project__body--content-text-background-title"></h4>
+                                    <p class="content__project__body--content-text-background-description"></p>
+                                </div>
+                                <button class="content__project__body--content-text-btn"></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </div>
             <div class="counter">
 
