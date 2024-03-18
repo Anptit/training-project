@@ -118,13 +118,26 @@
                     <img src="/assets/images/Aboutus.png" alt="">
                 </div>
             </div>
-            <div class="conten_testimonial">
+            <div class="content__testimonial">
+                <div class="content__testimonial__body">
+                    <div class="content__testimonial__body__heading">
+                        <h2 class="content__testimonial__body__heading--text">
+
+                        </h2>
+                    </div>
+                    <div class="content__testimonial__body__testimonial">
+                        <ul class="content__testimonial__body__testimonial--list">
+                            <li class="content__testimonial__body__testimonial--list-item"></li>
+                            <li class="content__testimonial__body__testimonial--list-item"></li>
+                            <li class="content__testimonial__body__testimonial--list-item"></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="content_client-logo">
 
             </div>
-            <div class="conten_clien-logo">
-
-            </div>
-            <div class="conten_project">
+            <div class="content_project">
 
             </div>
             <div class="counter">
