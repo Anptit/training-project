@@ -10,6 +10,8 @@
     --height-client-logo: 102px;
     --project           : calc(var(--client-logo) + var(--height-client-logo) + 94px);
     --height-project    : 1540px;
+    --counter           : calc(var(--height-project) + var(--project) + 84px);
+    --height-counter    : 457px;
 }
 
 .container {
@@ -556,8 +558,8 @@
 }
 
 .content__project__body--content-info-img {
-    width        : 100%;
-    height       : 100%;
+    width : 100%;
+    height: 100%;
 }
 
 .content__project__body--content-text {
@@ -601,16 +603,79 @@
 }
 
 .content__project__body--content-text-btn {
-    width     : 70px;
-    height    : 70px;
-    background: #F4F0EC;
-    border    : 2px;
-    color     : #292F36;
+    width        : 70px;
+    height       : 70px;
+    background   : #F4F0EC;
+    border       : 2px;
+    color        : #292F36;
     border-radius: 50%;
 }
 
 .content__project__body--content-text-btn-icon {
-    width : 8px;
-    height: 18px;
+    width    : 8px;
+    height   : 18px;
     font-size: 16px;
+}
+
+.counter {
+    position  : relative;
+    width     : 1920px;
+    height    : var(--height-counter);
+    top       : var(--counter);
+    background: #F4F0EC;
+}
+
+.counter__list {
+    display        : flex;
+    align-items    : center;
+    justify-content: center;
+    width          : 1082px;
+    height         : 100%;
+    gap            : 76px;
+    list-style     : none;
+    padding        : 0;
+    margin         : auto;
+}
+
+.counter__list-item {
+    width       : 246px;
+    height      : 142px;
+    border-right: 1px solid #CDA274;
+    text-align  : center;
+    color       : #CDA274;
+}
+
+.counter__list-item:last-child {
+    border: none;
+}
+
+.counter__list-item-content {
+    width : 192px;
+    height: 155px;
+    margin-right: 42px;
+}
+
+.counter__list-item-content-title {
+    width         : 100%;
+    height        : 106px;
+    font-family   : DM Serif Display;
+    font-size     : 85px;
+    font-weight   : 400;
+    line-height   : 106px;
+    letter-spacing: 1px;
+    text-align    : center;
+    margin        : 0;
+}
+
+.counter__list-item-content-description {
+    width         : 192px;
+    height        : 33px;
+    font-family   : Jost;
+    font-size     : 20px;
+    font-weight   : 400;
+    line-height   : 33px;
+    letter-spacing: 1px;
+    text-align    : center;
+    margin        : 10px 0 0 0;
+    color         : #4D5053;
 }

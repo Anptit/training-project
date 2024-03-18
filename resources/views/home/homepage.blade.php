@@ -254,7 +254,8 @@
                                     </p>
                                 </div>
                                 <button class="content__project__body--content-text-btn">
-                                    <i class="fa-solid fa-angle-right content__project__body--content-text-btn-icon"></i>
+                                    <i
+                                        class="fa-solid fa-angle-right content__project__body--content-text-btn-icon"></i>
                                 </button>
                             </div>
                         </div>
@@ -271,7 +272,8 @@
                                     </p>
                                 </div>
                                 <button class="content__project__body--content-text-btn">
-                                    <i class="fa-solid fa-angle-right content__project__body--content-text-btn-icon"></i>
+                                    <i
+                                        class="fa-solid fa-angle-right content__project__body--content-text-btn-icon"></i>
                                 </button>
                             </div>
                         </div>
@@ -281,7 +283,8 @@
                             <img src="/assets/project/p3.png" alt=""
                                 class="content__project__body--content-info-img">
                             <div class="content__project__body--content-text">
-                                <div class="content_content__project__body--content-info_project__body--content-text-background">
+                                <div
+                                    class="content_content__project__body--content-info_project__body--content-text-background">
                                     <h4 class="content__project__body--content-text-background-title">
                                         Modern Kitchan
                                     </h4>
@@ -290,7 +293,8 @@
                                     </p>
                                 </div>
                                 <button class="content__project__body--content-text-btn">
-                                    <i class="fa-solid fa-angle-right content__project__body--content-text-btn-icon"></i>
+                                    <i
+                                        class="fa-solid fa-angle-right content__project__body--content-text-btn-icon"></i>
                                 </button>
                             </div>
                         </div>
@@ -307,16 +311,50 @@
                                     </p>
                                 </div>
                                 <button class="content__project__body--content-text-btn">
-                                    <i class="fa-solid fa-angle-right content__project__body--content-text-btn-icon"></i>
+                                    <i
+                                        class="fa-solid fa-angle-right content__project__body--content-text-btn-icon"></i>
                                 </button>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div class="counter">
-                
-            </div>
+        </div>
+        <div class="counter">
+            <ul class="counter__list">
+                <li class="counter__list-item">
+                    <div class="counter__list-item-content">
+                        <h1 class="counter__list-item-content-title">12</h1>
+                        <p class="counter__list-item-content-description">
+                            Years Of Experiance
+                        </p>
+                    </div>
+                </li>
+                <li class="counter__list-item">
+                    <div class="counter__list-item-content">
+                        <h1 class="counter__list-item-content-title">85</h1>
+                        <p class="counter__list-item-content-description">
+                            Success Project
+                        </p>
+                    </div>
+                </li>
+                <li class="counter__list-item">
+                    <div class="counter__list-item-content">
+                        <h1 class="counter__list-item-content-title">15</h1>
+                        <p class="counter__list-item-content-description">
+                            Active Project
+                        </p>
+                    </div>
+                </li>
+                <li class="counter__list-item">
+                    <div class="counter__list-item-content">
+                        <h1 class="counter__list-item-content-title">95</h1>
+                        <p class="counter__list-item-content-description">
+                            Happy Customers
+                        </p>
+                    </div>
+                </li>
+            </ul>
         </div>
         <div class="conclusion">
             <div class="conclusion-blog">
