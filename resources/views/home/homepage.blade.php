@@ -206,8 +206,29 @@
                     </div>
                 </div>
             </div>
-            <div class="content_client-logo">
-
+            <div class="content__client__logo">
+                <ul class="content__client__logo--list">
+                    <li class="content__client__logo--list-item">
+                        <img src="/assets/logo/apple.png" alt=""
+                        class="content__client__logo--list-item-img">
+                    </li>
+                    <li class="content__client__logo--list-item">
+                        <img src="/assets/logo/adidas.png" alt=""
+                        class="content__client__logo--list-item-img">
+                    </li>
+                    <li class="content__client__logo--list-item">
+                        <img src="/assets/logo/pepsi.png" alt=""
+                        class="content__client__logo--list-item-img">
+                    </li>
+                    <li class="content__client__logo--list-item">
+                        <img src="/assets/logo/starbuck.png" alt=""
+                        class="content__client__logo--list-item-img">
+                    </li>
+                    <li class="content__client__logo--list-item">
+                        <img src="/assets/logo/tiktok.jpg" alt=""
+                        class="content__client__logo--list-item-img">
+                    </li>
+                </ul>
             </div>
             <div class="content_project">
 
