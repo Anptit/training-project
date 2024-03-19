@@ -357,8 +357,99 @@
             </ul>
         </div>
         <div class="conclusion">
-            <div class="conclusion-blog">
-                
+            <div class="blog">
+                <div class="blog__heading">
+                    <div class="blog__heading--title">
+                        Articles & News
+                    </div>
+                    <div class="blog__heading--description">
+                        It is a long established fact that a reader will be distracted by the of readable content of a
+                        page
+                        when lookings at its layouts the points of using.
+                    </div>
+                </div>
+                <div class="blog__body">
+                    <ul class="blog__body--list">
+                        <li class="blog__body--list-item">
+                            <div class="blog__body--list-item-tag">
+                                <p class="blog__body--list-item-tag-description">Kitchan Design</p>
+                            </div>
+                            <div class="blog__body--list-item-subcontent">
+                                <div class="blog__body--list-item-subcontent-body">
+                                    <img src="/assets/blog/b1.png" alt=""
+                                        class="blog__body--list-item-subcontent-body-img">
+                                    <div class="blog__body--list-item-subcontent-body-text">
+                                        <p class="blog__body--list-item-subcontent-body-text-description">
+                                            Let’s Get Solution For Building Construction Work
+                                        </p>
+                                        <div class="blog__body--list-item-subcontent-body-text-date">
+                                            <p class="blog__body--list-item-subcontent-body-text-date-time">
+                                                26 December,2022
+                                            </p>
+                                            <div class="blog__body--list-item-subcontent-body-text-date-btn">
+                                                <a href="#"></a>
+                                                <i
+                                                    class="fa-solid fa-angle-right blog__body--list-item-subcontent-body-text-date-btn-icon"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="blog__body--list-item">
+                            <div class="blog__body--list-item-tag">
+                                <p class="blog__body--list-item-tag-description">Kitchan Design</p>
+                            </div>
+                            <div class="blog__body--list-item-subcontent">
+                                <div class="blog__body--list-item-subcontent-body">
+                                    <img src="/assets/blog/b2.png" alt=""
+                                        class="blog__body--list-item-subcontent-body-img">
+                                    <div class="blog__body--list-item-subcontent-body-text">
+                                        <p class="blog__body--list-item-subcontent-body-text-description">
+                                            Low Cost Latest Invented Interior Designing Ideas.
+                                        </p>
+                                        <div class="blog__body--list-item-subcontent-body-text-date">
+                                            <p class="blog__body--list-item-subcontent-body-text-date-time">
+                                                22 December,2022
+                                            </p>
+                                            <div class="blog__body--list-item-subcontent-body-text-date-btn">
+                                                <a href="#"></a>
+                                                <i
+                                                    class="fa-solid fa-angle-right blog__body--list-item-subcontent-body-text-date-btn-icon"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="blog__body--list-item">
+                            <div class="blog__body--list-item-tag">
+                                <p class="blog__body--list-item-tag-description">Kitchan Design</p>
+                            </div>
+                            <div class="blog__body--list-item-subcontent">
+                                <div class="blog__body--list-item-subcontent-body">
+                                    <img src="/assets/blog/b3.png" alt=""
+                                        class="blog__body--list-item-subcontent-body-img">
+                                    <div class="blog__body--list-item-subcontent-body-text">
+                                        <p class="blog__body--list-item-subcontent-body-text-description">
+                                            Best For Any Office & Business Interior Solution
+                                        </p>
+                                        <div class="blog__body--list-item-subcontent-body-text-date">
+                                            <p class="blog__body--list-item-subcontent-body-text-date-time">
+                                                25 December,2022
+                                            </p>
+                                            <div class="blog__body--list-item-subcontent-body-text-date-btn">
+                                                <a href="#"></a>
+                                                <i
+                                                    class="fa-solid fa-angle-right blog__body--list-item-subcontent-body-text-date-btn-icon"></i>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
             </div>
             <div class="conclusion-contact">
 
