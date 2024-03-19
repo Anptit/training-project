@@ -387,9 +387,9 @@
                                                 26 December,2022
                                             </p>
                                             <div class="blog__body--list-item-subcontent-body-text-date-btn">
-                                                <a href="#"></a>
-                                                <i
-                                                    class="fa-solid fa-angle-right blog__body--list-item-subcontent-body-text-date-btn-icon"></i>
+                                                <a href="#" class="blog__body--list-item-subcontent-body-text-date-btn-link">
+                                                    <i class="fa-solid fa-angle-right blog__body--list-item-subcontent-body-text-date-btn-icon"></i>
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -413,9 +413,9 @@
                                                 22 December,2022
                                             </p>
                                             <div class="blog__body--list-item-subcontent-body-text-date-btn">
-                                                <a href="#"></a>
-                                                <i
-                                                    class="fa-solid fa-angle-right blog__body--list-item-subcontent-body-text-date-btn-icon"></i>
+                                                <a href="#" class="blog__body--list-item-subcontent-body-text-date-btn-link">
+                                                    <i class="fa-solid fa-angle-right blog__body--list-item-subcontent-body-text-date-btn-icon"></i>
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -439,9 +439,9 @@
                                                 25 December,2022
                                             </p>
                                             <div class="blog__body--list-item-subcontent-body-text-date-btn">
-                                                <a href="#"></a>
-                                                <i
-                                                    class="fa-solid fa-angle-right blog__body--list-item-subcontent-body-text-date-btn-icon"></i>
+                                                <a href="#" class="blog__body--list-item-subcontent-body-text-date-btn-link">
+                                                    <i class="fa-solid fa-angle-right blog__body--list-item-subcontent-body-text-date-btn-icon"></i>
+                                                </a>
                                             </div>
                                         </div>
                                     </div>
@@ -451,8 +451,19 @@
                     </ul>
                 </div>
             </div>
-            <div class="conclusion-contact">
-
+            <div class="contact">
+                <div class="contact__body">
+                    <div class="contact__body--content">
+                        <h1 class="contact__body--content-title">Wanna join the interno?</h1>
+                        <h5 class="contact__body--content--description">It is a long established fact  will be distracted.</h5>
+                    </div>
+                    <div class="contact__body--btn">
+                        <div class="contact__body--btn-title">
+                            <p class="contact__body--btn-title-text">Contact With Us</p>
+                        </div>
+                        <i class="fa-solid fa-arrow-right contact__body--btn-icon"></i>
+                    </div>
+                </div>
             </div>
             @include('layouts.footer')
         </div>
