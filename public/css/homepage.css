@@ -13,11 +13,13 @@
     --counter: calc(var(--project) + var(--height-project) + 84px);
     --height-counter: 294px;
     --conclusion: calc(var(--counter) + var(--height-counter) - 50px);
-    --height-conclusion: 1000px;
     --blog: 0;
     --height-blog: 714px;
     --contact: calc(var(--height-blog) + 165px);
     --height-contact: 374px;
+    --footer: calc(var(--contact) + var(--height-contact) + 108px);
+    --height-footer: 577px;
+    --height-conclusion: calc(var(--height-blog) + var(--height-contact) + var(--height-footer));
 }
 
 .container {
